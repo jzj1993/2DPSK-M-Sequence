@@ -1,0 +1,12 @@
+Fitter Status : Successful - Tue Nov 12 13:42:56 2013
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : abc
+Top-level Entity Name : abc
+Family : Cyclone
+Device : EP1C20F324C8
+Timing Models : Final
+Total logic elements : 31 / 20,060 ( < 1 % )
+Total pins : 15 / 233 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 768 / 294,912 ( < 1 % )
+Total PLLs : 0 / 2 ( 0 % )

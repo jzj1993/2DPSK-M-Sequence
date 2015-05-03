@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="abc">
+		<CBX_INST_ENTRY INSTANCE_NAME="|abc|lpm_counter0:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_3sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|abc|lpm_counter1:inst8|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_hth.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|abc|lpm_counter2:inst9|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_7dh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|abc|lpm_rom0:inst12|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_9d21.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
